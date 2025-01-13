@@ -1,6 +1,5 @@
 # Sobre mim:
 
-- 🎓 Estudante do curso de Ciência da Computação pela UFMT
 - 🌱 Atualmente buscando aprender mais sobre desenvolvimento front-end
 
 <h2> Status do Perfil </h2>

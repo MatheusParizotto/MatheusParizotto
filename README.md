@@ -1,6 +1,6 @@
 # Sobre mim:
-
-- 🌱 Atualmente buscando aprender mais sobre desenvolvimento front-end
+- 🏢 Atualemnte trabalho como suporte N1;
+- 🌱 Buscando aprender mais sobre Design de Interface.
 
 <h2> Status do Perfil </h2>
 <div align="center"> 

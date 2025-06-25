@@ -5,7 +5,6 @@
 <h2> Status do Perfil </h2>
 <div align="center"> 
   <a href="https://github.com/MatheusParizotto">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MatheusParizotto&layout=compact&hide_border=true&theme=dracula" alt="Profile statistics" height="180em"><a>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MatheusParizotto&layout=compact&hide_border=true&theme=dracula" alt="Profile statistics" height="180em"></a>
 </div>
     

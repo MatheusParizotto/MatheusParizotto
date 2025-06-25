@@ -1,6 +1,6 @@
 # Sobre mim:
 - 🏢 Atualmente trabalho como suporte N1;
-- 🌱 Buscando aprender mais sobre Design de Interface e Desenvolvimento de software.
+- 🌱 Buscando aprender mais sobre Design de interface e Desenvolvimento de software.
 
 <h2> Status do Perfil </h2>
 <div align="left"> 

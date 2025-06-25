@@ -3,7 +3,7 @@
 - 🌱 Buscando aprender mais sobre Design de Interface.
 
 <h2> Status do Perfil </h2>
-<div align="center"> 
+<div align="left"> 
   <a href="https://github.com/MatheusParizotto">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MatheusParizotto&layout=compact&hide_border=true&theme=dracula" alt="Profile statistics" height="180em"></a>
 </div>

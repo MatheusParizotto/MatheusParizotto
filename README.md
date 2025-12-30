@@ -1,6 +1,6 @@
 # Sobre mim:
-- 🏢 Atualmente trabalho como suporte N1;
-- 🌱 Buscando aprender mais sobre Design de interface e Desenvolvimento de software.
+- 🏢 Atualmente trabalho como Desenvlverdo de Software (Java);
+- 🌱 Pós-graduando em Data Science.
 
 <h2> Status do Perfil </h2>
 <div align="left"> 

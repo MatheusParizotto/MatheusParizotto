@@ -1,5 +1,5 @@
 # Sobre mim:
-- 🏢 Atualmente trabalho como Desenvlverdo de Software (Java);
+- 🏢 Atualmente trabalho como Desenvolvedor de Software (Java);
 - 🌱 Pós-graduando em Data Science.
 
 <h2> Status do Perfil </h2>

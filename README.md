@@ -1,4 +1,5 @@
 # Sobre mim:
+- 🎓 Graduado em Ciência da Computação pela UFMT;
 - 🏢 Atualmente trabalho como Desenvolvedor de Software (Java);
 - 🌱 Pós-graduando em Data Science.
 
